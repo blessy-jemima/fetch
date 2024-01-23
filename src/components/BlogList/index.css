@@ -1,0 +1,11 @@
+.spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.list-type {
+  list-style-type: none;
+}
